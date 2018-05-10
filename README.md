@@ -1,2 +1,2 @@
 # hello-world
-primary repository of my account
+first repository of my account
